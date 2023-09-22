@@ -494,72 +494,18 @@ header {
       padding: 20px 0 !important; } }
 
 .header__logo {
+  padding-left: 45px;
+  padding-left: 3.21429vw;
+  padding-right: 45px;
+  padding-right: 3.21429vw;
+  width: 25%;
+  width: 26.7%;
   font-size: 10pt;
   left: 50px;
   position:fixed;
   margin: auto;
   top: 30px;
   padding-left: 0 !important; }
-  @media (min-width: 1600px) {
-    .header__logo {
-      padding-left: 67.5px;
-      padding-left: 3.21429vw; } }
-  @media (max-width: 1450px) {
-    .header__logo {
-      padding-left: 22.5px;
-      padding-left: 3.21429vw; } }
-  @media (max-width: 1270px) {
-    .header__logo {
-      padding-left: 30.375px;
-      padding-left: 4.33929vw; } }
-  @media (min-width: 1800px) {
-    .header__logo {
-      padding-left: 67.5px;
-      padding-left: 57.85714px; } }
-  @media (min-width: 1600px) {
-    .header__logo {
-      padding-right: 67.5px;
-      padding-right: 3.21429vw; } }
-  @media (max-width: 1450px) {
-    .header__logo {
-      padding-right: 22.5px;
-      padding-right: 3.21429vw; } }
-  @media (max-width: 1270px) {
-    .header__logo {
-      padding-right: 30.375px;
-      padding-right: 4.33929vw; } }
-  @media (min-width: 1800px) {
-    .header__logo {
-      padding-right: 67.5px;
-      padding-right: 57.85714px; } }
-  .header__logo img {
-    opacity: 1 !important; }
-  @media (max-width: 1270px) {
-    .header__logo {
-      display: block;
-      width: 33.33%; } }
-  @media (max-width: 900px) {
-    .header__logo {
-      padding-left: 0;
-      padding-right: 0;
-      display: block;
-      width: 100%; } }
-
-.header__navigation {
-  width: 25%;
-  display: inline-block;
-  vertical-align: bottom;
-  position: relative; }
-  .header__navigation .navigation {
-    padding-left: 0 !important; }
-  @media (max-width: 1270px) {
-    .header__navigation {
-      width: 33.33%;
-      width: 34.2%; } }
-  @media (max-width: 900px) {
-    .header__navigation {
-      display: block;
-      width: 100%; } }
 
 .template-posts .header__navigation, .template-profile .header__navigation, .template-contact .header__navigation {
   width: 23.2%; }
