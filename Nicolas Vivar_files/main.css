@@ -243,17 +243,15 @@ p {
 
  .footer-address {
   font-size: 10pt;
-  bottom:25px;
+  padding-bottom: 50px;s
   left:25px;
   position:fixed;
-  padding-bottom: 50px;
   display: -ms-flexbox;
   display: flex;
   padding-left: 45px;
-  padding-left: 3.21429vw;
-  margin: auto;
-  width: 600;}
-  
+  padding-left: 3.21429vw; 
+  left: 50px;
+  padding-left: 0 !important;}
   @media (min-width: 1600px) {
     .footer-address {
       padding-left: 67.5px;
