@@ -288,6 +288,7 @@ p {
                 height: 76vh;} }
         
 .a-privacy-policy-banner__inner{
+  font-size: 11.5px;
   bottom:45px;
   left:25px;
   position:fixed;
